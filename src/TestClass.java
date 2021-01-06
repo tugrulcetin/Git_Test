@@ -5,5 +5,6 @@ public class TestClass {
         System.out.println("Bugun de boyle gecti");
         System.out.println("Bos gecen bir gun daha");
         System.out.println("Bugun cok yurudum bakanliga ve cns e gittim 5 subat");
+        System.out.println("Bugun hic yuruyus ya da spor yapamadim gunun nasil gectigini de anlamadim gece ibadet ettim ama sabahtan ogleye kadar da uyudum sonra da gece uykum gelmiyor hayatimin paradoksunu yasiyorum");
     }
 }
